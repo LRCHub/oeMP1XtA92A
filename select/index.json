@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "車窓",
+  "base_artist": "Yorushika",
+  "createdAt": "2025-12-01T13:25:41.925537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "車窓",
+      "artist": "柴田　淳",
+      "has_synced": false,
+      "path": "select/01_車窓_柴田_淳.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Train Window (車窓)",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/02_A_Train_Window_(車窓)_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "車窓 - A train window",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/03_車窓_-_A_train_window_Lamp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "車窓",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_01_車窓_flumpool.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "車窓",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_02_車窓_flumpool.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "車窓",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_03_車窓_flumpool.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "車窓",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_04_車窓_flumpool.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "車窓より",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_05_車窓より_flumpool.txt"
+    }
+  ]
+}
